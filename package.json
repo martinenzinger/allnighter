@@ -1,0 +1,21 @@
+{
+    "name": "all-nighter-italic",
+    "displayName": "All Nighter Italic",
+    "description": "Dark italic VS Code theme.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "All Nighter Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/all-nighter-italic-color-theme.json"
+            }
+        ]
+    }
+}
