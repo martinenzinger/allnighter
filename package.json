@@ -3,6 +3,8 @@
     "displayName": "All Nighter Italic",
     "description": "Dark italic VS Code theme.",
     "version": "1.0.0",
+    "publisher": "aaa1",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.56.0"
     },
