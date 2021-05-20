@@ -2,9 +2,13 @@
     "name": "all-nighter-italic",
     "displayName": "All Nighter Italic",
     "description": "Dark italic VS Code theme.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "aaa1",
     "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/martinenzinger/allnighter"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
